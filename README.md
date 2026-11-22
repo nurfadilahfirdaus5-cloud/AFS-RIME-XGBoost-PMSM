@@ -8,7 +8,7 @@ dalam prediksi temperatur rotor PMSM.
 
 ## Isi Repositori
 
-1. Kode_Penelitian.ipynb
+1. AFS_RIME_XGBoost_PMSM_Final.ipynb
    Kode praproses, rekayasa fitur, seleksi fitur,
    optimasi hyperparameter, dan evaluasi model.
 
